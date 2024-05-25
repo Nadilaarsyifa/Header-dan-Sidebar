@@ -12,11 +12,11 @@ ul.dropdown-menu {
 }
 
 
-.header-logo {
-    height: 40px;
-    width: auto;
-}
 
 div.offcanvas-body {
     font-family: cursive;
+}
+
+.nav-link.active {
+    background-color: rgb(124, 142, 155) !important;
 }
